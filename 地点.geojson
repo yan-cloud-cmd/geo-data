@@ -1,0 +1,11 @@
+{"type":"FeatureCollection", "features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[116.40653679115655,29.879714384485442,0]},"properties":{"名字":"上三号洲"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[116.12984525151235,29.781615297312293,0]},"properties":{"名字":"张家洲"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[116.62304040187425,30.011220416684136,0]},"properties":{"名字":"棉船洲"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[116.75153237752086,30.084124602475768,0]},"properties":{"名字":"华阳河口"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[116.85739696615687,30.148873611763175,0]},"properties":{"名字":"老虎滩"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[116.87985309115513,30.211731981057785,0]},"properties":{"名字":"玉带洲"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[116.91621062720887,30.4120555254342,0]},"properties":{"名字":"清洁洲"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[117.00067816504071,30.501788377399553,0]},"properties":{"名字":"皖河口"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[117.21027893067242,30.501468481728907,0]},"properties":{"名字":"江心洲"}}
+]}
