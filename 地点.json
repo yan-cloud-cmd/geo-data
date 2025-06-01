@@ -1,0 +1,11 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[12958316.400600001,3488097.6005999967,0,-1.7976931348623157e+308]},"properties":{"名字":"上三号洲"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[12927515.239300001,3475509.299900003,0,-1.7976931348623157e+308]},"properties":{"名字":"张家洲"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[12982417.4723,3504992.204999998,0,-1.7976931348623157e+308]},"properties":{"名字":"棉船洲"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[12996721.1336,3514367.8664999977,0,-1.7976931348623157e+308]},"properties":{"名字":"华阳河口"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[13008505.925700001,3522700.547799997,0,-1.7976931348623157e+308]},"properties":{"名字":"老虎滩"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[13011005.730099998,3530795.1525000036,0,-1.7976931348623157e+308]},"properties":{"名字":"玉带洲"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[13015053.032499999,3556626.464599997,0,-1.7976931348623157e+308]},"properties":{"名字":"清洁洲"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[13024455.915800001,3568214.5102000013,0,-1.7976931348623157e+308]},"properties":{"名字":"皖河口"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[13047788.566300001,3568173.1801000014,0,-1.7976931348623157e+308]},"properties":{"名字":"江心洲"}}
+]}
