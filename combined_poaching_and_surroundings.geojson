@@ -1,0 +1,416 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "可可西里",
+        "province": "青海省",
+        "description": "盗猎最猖獗地区之一，地广人稀，是藏羚羊迁徙的必经之地。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.883,
+          35.033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "羌塘草原",
+        "province": "西藏自治区",
+        "description": "藏北高原腹地，盗猎活动频繁，曾是盗猎路线的重要通道。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.0,
+          34.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "阿尔金山自然保护区",
+        "province": "新疆维吾尔自治区",
+        "description": "地处偏远，环境恶劣，盗猎者利用其隐蔽性进行非法猎捕。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0,
+          37.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "三江源地区",
+        "province": "青海省",
+        "description": "作为藏羚羊繁殖和迁徙的重要区域，曾受到盗猎威胁。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.8,
+          33.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "卓乃湖",
+        "province": "青海省",
+        "description": "每年大量藏羚羊迁徙至此产仔，曾被盗猎者盯上。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.583,
+          34.183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "可可西里",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.79326329737306,
+          35.18406738919812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "可可西里",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.05779069181186,
+          35.08673731376022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "可可西里",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.75325071703904,
+          35.04768642299549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "可可西里",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.83618868082628,
+          34.803169822953315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "可可西里",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.04411193133826,
+          34.80309859111263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "可可西里",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.96557749876462,
+          34.92376303584941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "可可西里",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.15411290982054,
+          35.118105231419605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "羌塘草原",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.97291617632257,
+          34.365805098676596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "羌塘草原",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.07543720428825,
+          34.26138258972954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "羌塘草原",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.09535378509631,
+          34.34032442254323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "阿尔金山自然保护区",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.85581770576891,
+          36.99348171216533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "阿尔金山自然保护区",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.96183629603028,
+          36.86354780921834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "阿尔金山自然保护区",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.06566813728996,
+          36.746163338534096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "阿尔金山自然保护区",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.05913276783997,
+          37.200777592220575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "三江源地区",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.48689946776497,
+          33.25582513945898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "三江源地区",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.77137740730186,
+          33.31900745128663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "三江源地区",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.87913148721316,
+          33.356279710940704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "三江源地区",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.94159658326313,
+          33.07387379639391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "三江源地区",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.94184915316332,
+          33.05815981204626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "三江源地区",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.62399320689772,
+          33.21768472989018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "三江源地区",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.97725634324682,
+          33.04441938721662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "卓乃湖",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.34030167138155,
+          34.35189888699775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "卓乃湖",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4144482025975,
+          34.307310766860425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "source": "卓乃湖",
+        "description": "随机生成的周边点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.42517005400417,
+          34.09363146284236
+        ]
+      }
+    }
+  ]
+}
