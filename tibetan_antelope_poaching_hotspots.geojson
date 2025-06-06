@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "可可西里",
+        "province": "青海省",
+        "description": "盗猎最猖獗地区之一，地广人稀，是藏羚羊迁徙的必经之地。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.883,
+          35.033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "羌塘草原",
+        "province": "西藏自治区",
+        "description": "藏北高原腹地，盗猎活动频繁，曾是盗猎路线的重要通道。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.0,
+          34.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "阿尔金山自然保护区",
+        "province": "新疆维吾尔自治区",
+        "description": "地处偏远，环境恶劣，盗猎者利用其隐蔽性进行非法猎捕。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0,
+          37.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "三江源地区",
+        "province": "青海省",
+        "description": "作为藏羚羊繁殖和迁徙的重要区域，曾受到盗猎威胁。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.8,
+          33.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "卓乃湖",
+        "province": "青海省",
+        "description": "每年大量藏羚羊迁徙至此产仔，曾被盗猎者盯上。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.583,
+          34.183
+        ]
+      }
+    }
+  ]
+}
