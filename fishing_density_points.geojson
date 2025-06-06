@@ -1,0 +1,1125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.37613250638387,
+          30.47277423365166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.299193437919,
+          30.62560520861425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.44493094277615,
+          30.573718897646184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.29246594921021,
+          30.5634615868132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.15217395140513,
+          30.610978285594786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.44606827222712,
+          30.74174200191636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.23747430569873,
+          30.715826563906614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.28350425967797,
+          30.718325840473977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.25635782639228,
+          30.70228699891315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.34664651809226,
+          30.564985580160343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.37330838376737,
+          30.65876885026163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.33357351731347,
+          30.524758061334676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.27936941452701,
+          30.66676792320231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.16979657967369,
+          30.620503101067744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.27004678907663,
+          30.642596757491496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.36524280150901,
+          30.569952363533353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.15334080355484,
+          30.66273666772339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.32008228136206,
+          30.69234983862785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.18625741345679,
+          30.699095229164513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.22446246189452,
+          30.568709664204707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.18733164498198,
+          30.667979968646755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3719887309715,
+          30.468690230388166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.17120941660951,
+          30.552747180006087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3147716690865,
+          30.566783900536247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "武汉段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.34796009733502,
+          30.462753725693098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "南京段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.69197075930951,
+          31.978522417640256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "南京段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7896024491332,
+          31.882480224278122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "南京段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.68449154368126,
+          31.973784844478022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "南京段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.73081897088412,
+          31.9990235462025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "南京段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.85965462083121,
+          31.948394700140792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "南京段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.82075626457653,
+          31.955970860748984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "南京段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.67750939014175,
+          31.88685837881656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "南京段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.92505232027817,
+          31.868875169594467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "南京段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.72089285744116,
+          31.86725733359007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "南京段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.81981730878925,
+          31.996280689569126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "南京段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.67436213774711,
+          32.0888902173151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "南京段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.86714000618073,
+          32.069880395782995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "南京段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.89910907744087,
+          31.94294264420606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "南京段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.76576839288302,
+          32.05636762747439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "南京段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7703817445544,
+          32.1165643173929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "南京段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.82996334107457,
+          32.13256319755971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "南京段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.81325216946789,
+          32.04303136663899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "南京段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.73526484830342,
+          31.93927640885268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "南京段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.70447374925587,
+          32.077816563468566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "南京段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.84974877219435,
+          31.964196867561892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "宜昌段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.29791188328615,
+          30.680443933157292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "宜昌段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.24279212225355,
+          30.570297797085004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "宜昌段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.18767801797772,
+          30.702349924465338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "宜昌段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.39702628935243,
+          30.700621768990885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "宜昌段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.42354417184856,
+          30.734683204785533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "宜昌段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.16404247619991,
+          30.55844066987858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "宜昌段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.19950509882244,
+          30.573004409779546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "宜昌段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.20675448668646,
+          30.58674870418611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "宜昌段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.27620836551193,
+          30.827368308661992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "宜昌段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.34995028698123,
+          30.740438056543184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "宜昌段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.39875291761271,
+          30.741360484864238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "宜昌段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.25950642457205,
+          30.61526480085953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "宜昌段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.39814400164795,
+          30.60232283451812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "宜昌段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.34989850139708,
+          30.75500019761491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "宜昌段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.2921265098648,
+          30.721077293261335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "重庆段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.64711941772957,
+          29.61635778632372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "重庆段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.48088930281533,
+          29.495464402800682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "重庆段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.62150040590048,
+          29.6801266520274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "重庆段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38249171202851,
+          29.61534719681541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "重庆段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4461531877671,
+          29.550525701326222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "重庆段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.46894702962922,
+          29.715722993694712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "重庆段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38765403899974,
+          29.48621191339512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "重庆段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.45246890738886,
+          29.631936600777088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "重庆段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.57691167121165,
+          29.489724259994414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "重庆段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.49266719381822,
+          29.56394344967275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "上海段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54224807465195,
+          31.062527483758224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "上海段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.38295415443524,
+          31.056859153286258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "上海段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.582603903063,
+          31.25375970072615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "上海段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4465243338495,
+          31.33027834818979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "上海段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.60928185292005,
+          31.19995075024708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "上海段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.45518523003341,
+          31.10073270773841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "上海段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52873935665858,
+          31.305602964283754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "上海段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44983538585853,
+          31.33822427190257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "上海段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53762297856471,
+          31.144098341456743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "上海段",
+        "type": "捕捞点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4300303558794,
+          31.21385114228502
+        ]
+      }
+    }
+  ]
+}
